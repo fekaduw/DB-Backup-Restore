@@ -1,0 +1,12 @@
+D:\Projects\DB_Backup_Restore\DBUtilityService\bin\Debug\DBUtilityService.exe.config
+D:\Projects\DB_Backup_Restore\DBUtilityService\obj\Debug\DBUtilityService.csprojResolveAssemblyReference.cache
+D:\Projects\DB_Backup_Restore\DBUtilityService\obj\Debug\DBUtilityService.ProjectInstaller.resources
+D:\Projects\DB_Backup_Restore\DBUtilityService\obj\Debug\DBUtilityService.csproj.GenerateResource.Cache
+D:\Projects\DB_Backup_Restore\DBUtilityService\bin\Debug\DBUtilityService.exe
+D:\Projects\DB_Backup_Restore\DBUtilityService\bin\Debug\DBUtilityService.pdb
+D:\Projects\DB_Backup_Restore\DBUtilityService\obj\Debug\DBUtilityService.exe
+D:\Projects\DB_Backup_Restore\DBUtilityService\obj\Debug\DBUtilityService.pdb
+D:\Projects\DB_Backup_Restore\DBUtilityService\bin\Debug\DBUtilityService.exe.manifest
+D:\Projects\DB_Backup_Restore\DBUtilityService\bin\Debug\DBUtilityService.application
+D:\Projects\DB_Backup_Restore\DBUtilityService\obj\Debug\DBUtilityService.exe.manifest
+D:\Projects\DB_Backup_Restore\DBUtilityService\obj\Debug\DBUtilityService.application

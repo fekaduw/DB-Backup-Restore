@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ASquare.WindowsTaskScheduler</id>
+    <version>1.5.0.0</version>
+    <title>ASquare.WindowsTaskScheduler</title>
+    <authors>ASquare Technology</authors>
+    <owners>ASquare Technology</owners>
+    <projectUrl>http://www.asqtek.com/Home/WindowsTaskScheduler</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package used to create Windows Scheduler</description>
+    <releaseNotes>Able to Create the new Windows Scheduler Task with Dialy, Montly, Weekly and Hourly Trigger</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>TaskScheduler WindowsTaskScheduler Scheduler</tags>
+  </metadata>
+</package>

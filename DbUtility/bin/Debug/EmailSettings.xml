@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Settings>
+  <Sender>
+    <Email>dbbackupinfo@gmail.com</Email>
+    <Password>PGREJuG1FWOyNYzIdF80hg==</Password>
+  </Sender>
+  <Receiver>
+    <Email>fekaduw@gmail.com</Email>
+  </Receiver>
+  <SMTP>smtp.gmail.com</SMTP>
+</Settings>
